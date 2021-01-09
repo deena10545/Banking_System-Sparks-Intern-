@@ -1,2 +1,2 @@
 # Banking_System-Sparks-Intern-
-Basic banking system
+This is a basic dynamic website which contains 10 dummy customers to transfer the amount between themselves.
